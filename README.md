@@ -1,4 +1,5 @@
 # JSP
+Dans ce référentiel, vous trouverez deux projets distincts. Le premier projet est dédié à la gestion des sessions pour l'authentification MD5, tandis que le deuxième projet se concentre sur la mise en œuvre d'un système de gestion des commandes.
 ## Session (Authentication MD5): 
 Authentification:
 ![Capture d’écran (57)](https://github.com/Nouhaila25/PizzaRecipies/assets/116907282/9d2e292e-19b0-49fe-a10e-f55b44b330e7)
