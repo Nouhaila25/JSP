@@ -1,5 +1,5 @@
 # JSP
-## Session: 
+## Session (Authentication MD5): 
 Authentification:
 ![Capture d’écran (57)](https://github.com/Nouhaila25/PizzaRecipies/assets/116907282/9d2e292e-19b0-49fe-a10e-f55b44b330e7)
 Aprés l'authentification:
@@ -10,7 +10,10 @@ Inscription:
 ![Capture d’écran (59)](https://github.com/Nouhaila25/PizzaRecipies/assets/116907282/174a58dc-b94c-46f7-891b-b530b9cf57b7)
 Aprés l'authentification:
 ![Capture d’écran (60)](https://github.com/Nouhaila25/PizzaRecipies/assets/116907282/2192eafa-3818-4800-95c6-0406fbf6b0d5)
-## Gestion de commande:
+
+
+
+## Gestion de commande :
 Afficher les produits de la commande sélectionnée:
 ![Capture d’écran (61)](https://github.com/Nouhaila25/PizzaRecipies/assets/116907282/fa450cc7-92b1-45b4-bf95-ca04ca63665c)
 Ajouter une commande:
